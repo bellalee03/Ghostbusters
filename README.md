@@ -21,4 +21,4 @@
 - **Algorithm Design**: Designed and optimized algorithms to navigate and solve the Ghostbusters game efficiently.
 
 
-For a detailed understanding of the project's scope and specifications, visit the [official project page](https://inst.eecs.berkeley.edu/~cs188/fa23/projects/proj4/).
+For a detailed understanding of the project's scope and specifications, visit the [here](https://inst.eecs.berkeley.edu/~cs188/fa23/projects/proj4/).
